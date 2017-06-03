@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 3vw;
+    color: blue;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5vw;
+    color: white;
+}
